@@ -1,7 +1,6 @@
-# Dashboard-de-Manutencao-PowerBI
+# 📊 Dashboard de Manutenção Industrial | Power BI
 Ferramenta de BI desenvolvida para transformar dados operacionais da manutenção em informações estratégicas para apoio à tomada de decisão.
 
-# 📊 Dashboard de Manutenção Industrial | Power BI
 O dashboard centraliza indicadores da manutenção, proporcionando uma visão integrada dos processos de Solicitações de Serviço, Backlog, Planos de Manutenção e Programação, permitindo identificar gargalos, acompanhar desempenho e apoiar ações de melhoria contínua.
 
 ---
@@ -155,8 +154,7 @@ Monitoramento da execução da programação semanal/mensal de manutenção.
 ### 📸 Principais Telas do Projeto
 
 #### 1️⃣ Solicitações de Serviço (SS)
-
-*Inserir imagem da tela*
+![Logo CI](assets/img/DashboardTelaSS.png?raw=true)
 
 ---
 
