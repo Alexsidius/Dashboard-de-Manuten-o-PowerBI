@@ -8,7 +8,7 @@ O dashboard centraliza indicadores da manutenção, proporcionando uma visão in
 
 ### 🎯 Objetivo
 
-Disponibilizar uma solução analítica que ofereça visibilidade gerencial, estratégica, técnica e operacional sobre os principais processos da manutenção, convertendo dados em insights para aumentar a eficiência, melhorar o planejamento e apoiar decisões baseadas em evidências.
+Disponibilizar uma solução analítica que ofereça visibilidade gerencial, estratégica, técnica e operacional sobre os principais processos da manutenção, convertendo dados em insights para aumentar a eficiência, melhorar o planejamento e apoiar decisões baseadas em dados.
 
 ---
 
@@ -92,7 +92,7 @@ Acompanhamento dos planos preventivos gerados automaticamente pelo sistema Engem
 
 #### 📅 4. Gestão da Programação
 
-Monitoramento da execução da programação semanal de manutenção.
+Monitoramento da execução da programação semanal/mensal de manutenção.
 
 **Indicadores disponíveis:**
 
@@ -113,11 +113,8 @@ Monitoramento da execução da programação semanal de manutenção.
 
 ### 📈 Resultados Obtidos
 
-> *Os itens abaixo podem ser adaptados conforme os resultados efetivamente alcançados.*
-
 - Centralização dos principais indicadores da manutenção em uma única plataforma.
 - Redução do tempo necessário para obtenção de informações estratégicas.
-- Eliminação de consultas manuais em múltiplas fontes de dados.
 - Maior visibilidade sobre pendências, backlog e cumprimento dos planos de manutenção.
 - Padronização dos indicadores utilizados nas reuniões gerenciais.
 - Aumento da agilidade na identificação de desvios e oportunidades de melhoria.
