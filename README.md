@@ -178,8 +178,11 @@ Monitoramento da execução da programação semanal/mensal de manutenção.
 
 ---
 
-#### 4️⃣ Video demonstrativo
-assets/img/DashboardMiniatura.png?raw=true](assets/img/DashboardVideoS2.mp4)
+### 🎥 Demonstração em Vídeo
+
+Clique na imagem abaixo para assistir à demonstração do dashboard:
+
+[![Demonstração do Dashboard](assets/img/DashboardMiniatura.png?raw=true)](https://youtu.be/LtPVt_keGXg?is=mZSEMfmDVkRVFtPO)>
 
 ---
 
