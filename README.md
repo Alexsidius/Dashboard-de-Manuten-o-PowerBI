@@ -179,7 +179,7 @@ Monitoramento da execução da programação semanal/mensal de manutenção.
 ---
 
 #### 4️⃣ Video demonstrativo
-![assets/thumb/DashboardMiniatura.png](assets/img/DashboardVideoS2.mp4)
+assets/img/DashboardMiniatura.png?raw=true](assets/img/DashboardVideoS2.mp4)
 
 ---
 
