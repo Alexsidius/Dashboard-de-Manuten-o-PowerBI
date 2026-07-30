@@ -159,20 +159,27 @@ Monitoramento da execução da programação semanal/mensal de manutenção.
 ---
 
 #### 2️⃣ Backlog
-
-*Inserir imagem da tela*
+![Logo CI](assets/img/DashboardTelaBacklog.png?raw=true)
 
 ---
 
 #### 3️⃣ Planos de Manutenção
-
-*Inserir imagem da tela*
+![Logo CI](assets/img/DashboardTelaPlanos.png?raw=true)
 
 ---
 
 #### 4️⃣ Programação
+![Logo CI](assets/img/DashboardTelaProgramacao.png?raw=true)
 
-*Inserir imagem da tela*
+---
+
+#### 4️⃣ MTBF/MTTF
+![Logo CI](assets/img/DashboardTelaMTBF.png?raw=true)
+
+---
+
+#### 4️⃣ Video demonstrativo
+[![Assistir Demonstraçãopng](assets/img/DashboardVideoS2.mp4)
 
 ---
 
